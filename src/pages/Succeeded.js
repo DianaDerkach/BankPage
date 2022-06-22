@@ -1,13 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-
-const Home = () => {
+const Succeeded = () => {
   return (
     <View>
-      <Text>Home page</Text>
+      <Text>Succeeded page</Text>
     </View>
   );
 };
 
-export default Home;
+export default Succeeded;
